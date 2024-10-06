@@ -1,5 +1,9 @@
 # Microgravity Games for Astronauts
 
+## Link to App
+
+<a href="https://www.figma.com/proto/iptOT00r5QBrTLGYQVSMAu/NSA-2024?node-id=2-5&t=5VetqGZDrr6j2OKj-1">Healthy Space
+
 ## Overview
 Imagine being an astronaut, floating through the vastness of space, while engaging in a series of games designed to entertain and sharpen your mind and body. We’ve created a collection of microgravity games that challenge you to enhance essential skills such as strength, reaction time, endurance, and relaxation. 
 
